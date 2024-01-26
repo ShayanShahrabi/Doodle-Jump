@@ -1,5 +1,5 @@
 # Doodle-Jump
-> A repleca of the game *Doodle Jump* as the final project of my programming class back in highschool (9th grade)
+> This repo contains the final project for my *Programming with Python* class back in high school (9th grade).
 
 The project is written in Python with the help of the Pygame library.
 
